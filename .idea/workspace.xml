@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7848d19e-45e7-45b9-b0ca-5265f2b6ecb3" name="Default Changelist" comment="Dodanie zasobów do projektu">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="7848d19e-45e7-45b9-b0ca-5265f2b6ecb3" name="Default Changelist" comment="podstawowa struktura html i dodanie fontow">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614984615971</updated>
-      <workItem from="1614984618098" duration="4402000" />
+      <workItem from="1614984618098" duration="7105000" />
     </task>
     <task id="LOCAL-00001" summary="Stworzenie folderu css,reset y style.">
       <created>1615020433734</created>
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615020568216</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="podstawowa struktura html i dodanie fontow">
+      <created>1615023087042</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615023087042</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stworzenie folderu css,reset y style." />
     <MESSAGE value="Dodanie zasobów do projektu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dodanie zasobów do projektu" />
+    <MESSAGE value="podstawowa struktura html i dodanie fontow" />
+    <option name="LAST_COMMIT_MESSAGE" value="podstawowa struktura html i dodanie fontow" />
   </component>
 </project>
