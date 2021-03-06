@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7848d19e-45e7-45b9-b0ca-5265f2b6ecb3" name="Default Changelist" comment="Stworzenie folderu css,reset y style." />
+    <list default="true" id="7848d19e-45e7-45b9-b0ca-5265f2b6ecb3" name="Default Changelist" comment="Dodanie zasobów do projektu">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,10 +14,17 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pMEZbmL0RQmZi8FcAw93w6byta" />
@@ -24,6 +34,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -39,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614984615971</updated>
-      <workItem from="1614984618098" duration="2152000" />
+      <workItem from="1614984618098" duration="4402000" />
     </task>
     <task id="LOCAL-00001" summary="Stworzenie folderu css,reset y style.">
       <created>1615020433734</created>
@@ -48,7 +59,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615020433734</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dodanie zasobów do projektu">
+      <created>1615020554845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615020554845</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dodanie zasobów do projektu">
+      <created>1615020568216</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615020568216</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stworzenie folderu css,reset y style." />
-    <option name="LAST_COMMIT_MESSAGE" value="Stworzenie folderu css,reset y style." />
+    <MESSAGE value="Dodanie zasobów do projektu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodanie zasobów do projektu" />
   </component>
 </project>
